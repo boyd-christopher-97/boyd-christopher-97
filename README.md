@@ -1,16 +1,21 @@
-## Hi there 👋
+# Christopher Boyd
 
-<!--
-**boyd-christopher-97/boyd-christopher-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Scientist | j.christopher.boyd97@gmail.com | Henderson, Nevada
 
-Here are some ideas to get you started:
+Hi! I'm a Data Scientist with expertise in Python, SQL, and Machine Learning, passionate about solving complex problems using data. This is my GitHub profile where you can find my projects and contributions in data science, machine learning, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Key Projects
+
+1. **Interconnect Churn Forecast**
+   - Developed a customer churn prediction model using XGBoost with an ROC AUC score of 0.9018.
+   
+2. **Film Junky Union Sentiment Classifier**
+   - Created a sentiment classification system with an F1 score of 0.88.
+
+3. **News Article Classification**
+   - Built a neural network for topic classification with 95% accuracy.
+
+### Skills
+- **Languages**: Python, SQL, C++, Java
+- **Libraries**: TensorFlow, scikit-learn, NLTK
+- **Visualization**: Matplotlib, Plotly, Tableau
