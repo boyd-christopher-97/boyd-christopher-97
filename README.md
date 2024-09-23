@@ -12,9 +12,6 @@ Hi! I'm a Data Scientist with expertise in Python, SQL, and Machine Learning, pa
 2. **Film Junky Union Sentiment Classifier**
    - Created a sentiment classification system with an F1 score of 0.88.
 
-3. **News Article Classification**
-   - Built a neural network for topic classification with 95% accuracy.
-
 ### Skills
 - **Languages**: Python, SQL, C++, Java
 - **Libraries**: TensorFlow, scikit-learn, NLTK
